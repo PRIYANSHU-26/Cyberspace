@@ -62,6 +62,7 @@ python CLI.py
 Student Name: Priyanshu Baunthiyal
 
 SAP ID: 1000017309
+LICENSED - MIT License
 
 Institution: DIT University
    git clone [https://github.com/yourusername/smart-mobile-network-analyzer.git](https://github.com/yourusername/smart-mobile-network-analyzer.git)
